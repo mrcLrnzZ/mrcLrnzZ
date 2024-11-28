@@ -1,5 +1,5 @@
 👋 Hi, I’m @mrcLrnzZ  
-👀 Passionate About: Exploring software and web development, and tinkering with Arduinos.  
+👀 Passionate About: Software development, web development, and exploring Arduinos.
 🌱 Currently Learning: Java  
 📬 Reach Me At: Drop an email if you’d like to connect.  
 😄 Pronouns: He/Him  
