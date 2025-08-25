@@ -1,6 +1,7 @@
- ![Uploading 4nvoqk.gif…]()
 
-👋 Hi, I’m @mrcLrnzZ 
+ ![4nvoqk](https://github.com/user-attachments/assets/6933153a-7e4d-407c-8a8c-aa7c9b502e8a)
+ 
+👋 Hi, I’m @mrcLrnzZ
 🌱 Currently Learning: Java  
 📬 Reach Me At: Drop an email if you’d like to connect.  
 😄 Pronouns: He/Him  
