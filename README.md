@@ -1,3 +1,5 @@
+<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/jJjb9AUHOiP3nJJMdy/video" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/clips/hamlet-jJjb9AUHOiP3nJJMdy">via GIPHY</a></p>
+
 👋 Hi, I’m @mrcLrnzZ  
 🌱 Currently Learning: Java  
 📬 Reach Me At: Drop an email if you’d like to connect.  
