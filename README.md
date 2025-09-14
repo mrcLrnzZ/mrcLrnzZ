@@ -3,11 +3,15 @@
 </p>
 
 
-👋 Hi, I’m @mrcLrnzZ
-🌱 Currently Learning: Java  
-📬 Reach Me At: Drop an email if you’d like to connect.  
-😄 Pronouns: He/Him  
-⚡ Fun Fact: My favorite coding language? Whichever one compiles without errors! :D
+ • Hi, I’m Gillian Lorenzo!  
+ 
+ • Currently Learning: Java 
+ 
+ • Reach Me At: Lrnzzian@gmail.com  
+ 
+ • Pronouns: He/Him  
+ 
+ • Fun Fact: My favorite coding language? Whichever one compiles without errors! :D
 
 ![](https://komarev.com/ghpvc/?username=mrclrnzz&color=ff69b4&style=for-the-badge)
 
