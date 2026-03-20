@@ -5,8 +5,6 @@
 
  • Hi, I’m Gillian Lorenzo!  
  
- • Currently Learning: Java 
- 
  • Reach Me At: Lrnzzian@gmail.com  
  
  • Pronouns: He/Him  
