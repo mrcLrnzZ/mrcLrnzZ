@@ -3,14 +3,12 @@
 </p>
 
 
- • Hi, I’m Gillian Lorenzo!  
- 
- • Reach Me At: Lrnzzian@gmail.com  
- 
- • Pronouns: He/Him  
- 
- • Fun Fact: My favorite coding language? Whichever one compiles without errors! :D
-
+<p align="center">
+  <h1>Hi, I’m Gillian Lorenzo!</h1>
+  <h3>Reach Me At: <a href="mailto:Lrnzzian@gmail.com">Lrnzzian@gmail.com</a></h3>
+  <h3>Pronouns: He/Him</h3>
+  <h3>Fun Fact: My favorite coding language? Whichever one compiles without errors! :D</h3>
+</p>
 ![](https://komarev.com/ghpvc/?username=mrclrnzz&color=ff69b4&style=for-the-badge)
 
 # 💻 Tech Stack:
